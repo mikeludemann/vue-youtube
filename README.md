@@ -4,7 +4,7 @@ Vue YouTube Component
 
 ## Properties
 
-### youtube
+### youtube-video
 
 |Key|Value|Type|
 |:--|:----|:---|
@@ -12,7 +12,7 @@ Vue YouTube Component
 |width|Width of this element|String|
 |height|Height of this element|String|
 
-### youtube-playlist
+### youtube-video-list
 
 |Key|Value|Type|
 |:--|:----|:---|
